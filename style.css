@@ -63,7 +63,8 @@ header a:hover
 #showcase
 {
     min-height: 400px;
-    background-image: url("../projet/image5.jpg") no-repeat center;
+
+    background: url("image5.jpg") no-repeat center;
     background-size: cover;
 }
 #newsletter
